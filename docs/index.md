@@ -29,10 +29,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Internships
-
-Currently not applicable
-
 ### Data Science Lead
 
 `Jan 2018 - Mar 2018`
@@ -41,11 +37,6 @@ __Code Ninjas__, Teacher
 - Worked with a large database of files made by students.
 - Created and optimized grading order program. 
 - Experience fixing work done by both masters and ametures.
-
-
-### Data Science Consulting Team
-
-Not currently applicable
 
 ## Service and Work History
 
