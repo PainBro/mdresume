@@ -3,7 +3,7 @@ layout: cv
 title: Joseph Payne's Resume
 ---
 # Joseph Payne
-A computer acience major going for my second degree.
+A computer science major going for my second degree.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
